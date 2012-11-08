@@ -1,0 +1,4 @@
+SSCpluginMaker
+==============
+
+siriserver plugin maker

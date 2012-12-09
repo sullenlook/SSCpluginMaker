@@ -42,7 +42,7 @@ end = '''\
   if language == 'de-DE':
 	    self.say(u"BBB.")
 	else:
-	    self.say(u"bbb.)
+	    self.say(u"bbb.")
 	self.complete_request()
   
 '''
